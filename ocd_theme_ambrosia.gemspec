@@ -7,11 +7,11 @@ require "ocd_theme_ambrosia/version"
 Gem::Specification.new do |s|
   s.name        = "ocd_theme_ambrosia"
   s.version     = OcdThemeAmbrosia::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of OcdThemeAmbrosia."
-  s.description = "TODO: Description of OcdThemeAmbrosia."
+  s.authors     = ["Jeremy Ward"]
+  s.email       = ["jeremy.ward@digital-ocd.com"]
+  s.homepage    = "oc-digital.co"
+  s.summary     = "OC Digital Theme: Ambrosia"
+  s.description = "OC Digital Theme: Ambrosia"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
