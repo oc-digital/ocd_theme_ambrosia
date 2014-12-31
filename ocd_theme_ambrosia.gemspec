@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = OcdThemeAmbrosia::VERSION
   s.authors     = ["Jeremy Ward"]
   s.email       = ["jeremy.ward@digital-ocd.com"]
-  s.homepage    = "oc-digital.co"
+  s.homepage    = "http://digital-ocd.com"
   s.summary     = "OC Digital Theme: Ambrosia"
   s.description = "OC Digital Theme: Ambrosia"
   s.license     = "MIT"
